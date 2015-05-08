@@ -1,0 +1,18 @@
+section {
+    border:1px solid black;
+    width:100px;
+    height:100px;
+    margin: 12px;
+    float:left;
+}
+br {
+    clear:left;
+}
+div {
+    background-color:green;
+    height:24px;
+    width:24px;
+    float:left;
+    position:relative;
+    left:-24px;
+}
